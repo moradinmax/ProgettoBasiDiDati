@@ -4,3 +4,5 @@ All'interno del file progetto c'è la documentazione che dovremo sviluppare e po
 All'interno del file appunti ci sono gli appunti di luca radunati e in formato .odt nel caso 
 voleste modificarli.
 cout<<"BUON LAVORO :)"
+
+IP SERVER: "qua fede".
