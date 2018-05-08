@@ -5,7 +5,9 @@ All'interno del file appunti ci sono gli appunti di luca radunati e in formato .
 voleste modificarli.
 cout<<"BUON LAVORO :)"
 
-IP SERVER: "qua fede".
+IP SERVER: "zervero.ddns.net"
+USERNAME SERVER: "pi"
+PASSWORD: "********"....scherzo, la password è:"progetto"
 
 Ordine di esecuzione:
 Glossario 
