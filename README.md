@@ -6,3 +6,12 @@ voleste modificarli.
 cout<<"BUON LAVORO :)"
 
 IP SERVER: "qua fede".
+
+Ordine di esecuzione:
+Glossario 
+Schema scheletro 
+Impostazione cardinalità 
+prog. concettuale 
+prog. logica
+prog. fisica
+implementazione unione con java 
